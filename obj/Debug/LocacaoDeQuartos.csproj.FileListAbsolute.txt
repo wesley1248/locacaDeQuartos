@@ -1,0 +1,8 @@
+C:\Users\wesle\OneDrive\Documentos\estudos\LocacaoDeQuartos\LocacaoDeQuartos\bin\Debug\LocacaoDeQuartos.exe.config
+C:\Users\wesle\OneDrive\Documentos\estudos\LocacaoDeQuartos\LocacaoDeQuartos\bin\Debug\LocacaoDeQuartos.exe
+C:\Users\wesle\OneDrive\Documentos\estudos\LocacaoDeQuartos\LocacaoDeQuartos\bin\Debug\LocacaoDeQuartos.pdb
+C:\Users\wesle\OneDrive\Documentos\estudos\LocacaoDeQuartos\LocacaoDeQuartos\obj\Debug\LocacaoDeQuartos.csproj.AssemblyReference.cache
+C:\Users\wesle\OneDrive\Documentos\estudos\LocacaoDeQuartos\LocacaoDeQuartos\obj\Debug\LocacaoDeQuartos.csproj.SuggestedBindingRedirects.cache
+C:\Users\wesle\OneDrive\Documentos\estudos\LocacaoDeQuartos\LocacaoDeQuartos\obj\Debug\LocacaoDeQuartos.csproj.CoreCompileInputs.cache
+C:\Users\wesle\OneDrive\Documentos\estudos\LocacaoDeQuartos\LocacaoDeQuartos\obj\Debug\LocacaoDeQuartos.exe
+C:\Users\wesle\OneDrive\Documentos\estudos\LocacaoDeQuartos\LocacaoDeQuartos\obj\Debug\LocacaoDeQuartos.pdb
